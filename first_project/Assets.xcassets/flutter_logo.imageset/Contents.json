@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "logo_flutter_1080px_clr.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
